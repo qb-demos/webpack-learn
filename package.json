@@ -1,0 +1,20 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "掘金小册-使用 webpack 定制前端开发环境",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "webpack",
+    "xiaoce"
+  ],
+  "author": "wmaqingbo@163.com",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.24.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
